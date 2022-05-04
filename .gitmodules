@@ -1,0 +1,3 @@
+[submodule "inbox/github"]
+	path = inbox/github
+	url = git@github.com:tact-app/github.git
