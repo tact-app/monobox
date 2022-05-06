@@ -4,3 +4,6 @@
 [submodule "inbox/trello"]
 	path = inbox/trello
 	url = git@github.com:tact-app/trello.git
+[submodule "inbox/template"]
+	path = inbox/template
+	url = git@github.com:tact-app/inbox.git
