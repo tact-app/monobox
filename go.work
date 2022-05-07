@@ -1,6 +1,7 @@
 go 1.18
 
 use (
+	inbox/template
 	inbox/github
 	inbox/trello
 )
